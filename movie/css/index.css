@@ -1,0 +1,57 @@
+a{
+    text-decoration: underline;
+    color: #551a9a;
+}
+.movie{
+    font-size: 13px;
+    line-height: 1.54;
+}
+h3{
+    font-weight: 400;
+    font-size: medium;
+    line-height: 35px;
+}
+h3 a em{
+    font-style: normal;
+    color: #c00;
+}
+.container{
+    white-space: nowrap;
+}
+.container div{
+    overflow: hidden;
+    display: inline-block;
+}
+.myLeft{
+    margin-right: 17px;
+}
+.myRight h4{
+    font-size: 1.85em;
+    line-height: 100%;
+    font-family: "微软雅黑";
+    color: #333;
+    margin: 5px 0 15px;
+}
+.myRight h4 span{
+    font-size: 32px;
+    position: relative;
+    top: 3px;
+    color: #388bff;
+    margin: 0 3px;
+}
+.myLink span{
+    color: green;
+}
+.myLink .drop{
+    width: 10px;
+    height: 7px;
+}
+.myLink .picture{
+    width: 18px;
+    height: 8px;
+}
+.clear{
+    width: 0;
+    height: 0;
+    clear: both;
+}
